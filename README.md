@@ -12,4 +12,4 @@ My first repository
 - The characters are relatable.  
 - It has a perfect mix of friendship, adventure, and suspense.
 
-> "Friends don’t lie." – Eleven
+
